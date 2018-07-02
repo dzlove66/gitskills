@@ -49,7 +49,10 @@
   },
   "config": {
     "ghooks": {
-      "commit-msg": "./validate-commit-msg.js"
+      "commit-msg": "validate-commit-msg.js"
+    },
+    "commitizen": {
+      "path": "cz-conventional-changelog"
     }
   }
 }
