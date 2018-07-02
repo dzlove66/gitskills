@@ -52,7 +52,7 @@
       "commit-msg": "./validate-commit-msg.js"
     },
     "commitizen": {
-      "path": "./cz-conventional-changelog"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
